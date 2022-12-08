@@ -10,7 +10,7 @@ Funciones, argumentos y return:
 Los argumentos es lo que va entre parentesis despues del nombre de la funcion. Por ejemplo si queremos hacer una suma, los argumentos serian a y b, despues ponemos una variable suma que sume a + b, luego un return, despues declaramos la funcion con los numeros que queremos sumar y nos daria el resultado.
 
 Declaraciones `if`:
-La declaracion if es que, si se cumple tal cosa que retome esto y si no, que retome esto otro. ya sea true o false.
+La declaracion if es que si se cumple tal cosa que retome esto y si no, que retome esto otro. ya sea true o false.
 
 Valores booleanos (`true`, `false`):
 Los valores booleanos son true y false, que te dice cuando algo es verdadero o cuando algo es falso. Por ejemplo 1 es mayor a 2, retorna false. o 10 es mayor a 5 retornara true. 
