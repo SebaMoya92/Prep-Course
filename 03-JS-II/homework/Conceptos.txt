@@ -1,0 +1,7 @@
+for:
+permite repetir varias instrucciones (pasos) un cierto número de ocasiones (por ejemplo, 10 veces).
+
+`&&`, `||`, `!`: son operadores logicos
+&& : significa "Y". si 2 expresiones son true, retorna true, pero si una de ellas es false, retorna false.
+|| : significa "O". solamente es false si ambas expresiones son false.
+! : significa "NO". devulve el valor opuesto de lo que se le pasa.
