@@ -1,0 +1,3 @@
+Arrays:
+Es una variable que se crea donde se pueden guardar varios objetos como numeros, strings, booleanos, funciones e inclusive otros arrays.
+Por ejemplo: [1,2,3,4,"Seba",funcion(), true, undefined]
