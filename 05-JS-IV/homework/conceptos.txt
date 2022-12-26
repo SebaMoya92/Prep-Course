@@ -1,0 +1,29 @@
+Objetos:
+Los objetos contienen mucha informacion sobre una cosa. Se escribe con {}
+Ej: 
+var alumno {
+
+} 
+
+Propiedades:
+Sus propiedades son el punto o la clave dentro de ese objeto.
+Ej:
+var alumno {
+    nombre : "sebastian"
+}
+Para acceder a al nombre con su propiedad seria: alumno.nombre
+
+Metodos:
+Son las funciones dentro de un objeto.
+
+Bucle `for…in`:
+Recorre todo el objeto con sus claves correspondientes.
+
+Notación de puntos vs notación de corchetes:
+Se puede agregar ingresando por puntos o corchetes nuevas claves.
+Ej:
+var alumno {
+    nombre : "sebastian",
+    }
+alumno.apellido = "nuevo apellido"; 
+alumno["contraseña"] = "123456";
