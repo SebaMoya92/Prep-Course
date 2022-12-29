@@ -1,0 +1,5 @@
+* `prototype`:
+Cada clase tiene una propiedad *prototype*, que luego podemos establecer en métodos.
+
+* _Constructors_ (de Clases):
+El método constructor es un método especial para crear e inicializar un objeto creado con una clase .
