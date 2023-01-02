@@ -1,0 +1,2 @@
+* Funciones Callback:
+Es llamar a una funcion como argumento a otra funcion.
