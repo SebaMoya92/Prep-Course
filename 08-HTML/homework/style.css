@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://img.freepik.com/vector-gratis/minimo-fondo-blanco-gris-lineas-onduladas_1017-25099.jpg?w=2000");
+}
+
+h1 {
+  color: rebeccapurple;
+}
+
+img {
+  width: 400px;
+}
+
+.divClass {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 28px;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background: rebeccapurple;
+  padding: 50px;
+  border: 2px solid palevioletred;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
